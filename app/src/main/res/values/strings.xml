@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CheckPoints</string>
+    <string name="dashboard_welcome_text">Bienvenido</string>
+    <string name="dashboard_add_user_text">Agregar personal</string>
+    <string name="dashboard_add_checkpoint_text">Agregar punto de control</string>
+    <string name="dashboard_schedule_history_checkpoint_text">Historial de Monitoreo</string>
+    <string name="dashboard_user_list_text">Usuarios</string>
+    <string name="dashboard_checkpoint_list_text">Puntos de control</string>
+    <!-- Strings related to login create admin -->
+    <string name="add_admin_title">Crear Adminsitrador</string>
+    <string name="add_admin_name_input_text">Nombre</string>
+    <string name="add_admin_number_input_text">Número</string>
+    <string name="add_admin_company_input_text">Compañia</string>
+    <string name="add_admin_born_date_input_text">Fecha</string>
+    <string name="add_admin_password_input_text">Contraseña</string>
+    <string name="add_admin_password_test_input_text">Verficar contraseña</string>
+    <string name="add_admin_create_user_button_text">Crear Usuario</string>
+    <!-- Strings related to login -->
+    <string name="login_number">Número</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_action_sign_in">Iniciar sesión o registrarse</string>
+    <string name="login_invalid_username">Usuario o contraseña incorrectos</string>
+    <string name="login_failed">Error al iniciar sesión</string>
+
+</resources>

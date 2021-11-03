@@ -1,4 +1,4 @@
-package com.appside.checkpoints.View
+package com.appside.checkpoints.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,7 +8,8 @@ import android.view.ViewGroup
 import com.appside.checkpoints.R
 
 
-class CreateAdminFragment : Fragment() {
+class DashboardFragment : Fragment() {
+
 
 
     override fun onCreateView(
@@ -16,7 +17,8 @@ class CreateAdminFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_create_admin, container, false)
+        return inflater.inflate(R.layout.fragment_dashboard, container, false)
     }
+
 
 }

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.appside.checkpoints.View.LoginFragment"
+        android:name="com.appside.checkpoints.view.LoginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
@@ -19,11 +19,11 @@
     </fragment>
     <fragment
         android:id="@+id/createAdminFragment"
-        android:name="com.appside.checkpoints.View.CreateAdminFragment"
+        android:name="com.appside.checkpoints.view.CreateAdminFragment"
         android:label="CreateAdminFragment" />
     <fragment
         android:id="@+id/dashboardFragment"
-        android:name="com.appside.checkpoints.View.DashboardFragment"
+        android:name="com.appside.checkpoints.view.DashboardFragment"
         android:label="fragment_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 </navigation>
